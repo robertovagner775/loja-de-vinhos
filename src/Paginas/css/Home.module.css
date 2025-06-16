@@ -1,0 +1,11 @@
+.container  {
+    background-color: #F8F8FF;
+    display: flex;
+    justify-content: center;
+    
+    padding: 60px;
+}
+
+.containerTitle {
+    margin: 0 auto;
+}

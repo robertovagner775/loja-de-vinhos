@@ -8,4 +8,7 @@ individualmente e criar uma sistemática de carrinho de compras para que o usuá
 adicione/remova os produtos que irá comprar e tenha, antes de finalizar sua compra,
 um resumo do carrinho.
 
+### Demonstração do Projeto
+
+https://github.com/user-attachments/assets/44b5f1cc-dce6-4a9f-881c-3dc8472bd719
 
